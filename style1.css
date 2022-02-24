@@ -1,0 +1,25 @@
+@media(max-width:767px)
+{
+    textarea
+    {
+         height:150px;
+
+    }
+    .sign form
+    {
+        width:90%;
+    }
+
+    .text-form
+    {
+        width:60%;
+        height:40px;
+    }
+    .text-form1
+    {
+        width:25%;
+        height:40px;
+        margin-left:5%;
+    }
+
+}
